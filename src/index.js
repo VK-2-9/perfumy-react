@@ -4,7 +4,7 @@ import "./style.css"
 
 
 
-import App from "./app";
+import App from "./App";
 
 
 
